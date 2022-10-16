@@ -1,18 +1,118 @@
 {
-  "TypeofRice": {
-    "name": "tripti",
-    "weight": 25,
-    "price": 220
-  },
-  "TypeofWheat": {
-    "name": "basmati",
-    "weight": 20,
-    "price": 30
-  },
-  "TypeofPulse": {
-    "name": "mini",
-    "weight": 30,
-    "price": 50
-  }
+  "TypeofRice": [
+    {
+      "name": "tripti",
+      "weight": 25,
+      "price": 250
+    },
+    {
+      "name": "basmati",
+      "weight": 34,
+      "price": 340
+    },
+    {
+      "name": "swarna",
+      "weight": 21,
+      "price": 210
+    }
+  ],
+  "typeofWheat": [
+    {
+      "name": "shree",
+      "weight": 25,
+      "price": 250
+    },
+    {
+      "name": "om",
+      "weight": 34,
+      "price": 340
+    },
+    {
+      "name": "bhujiya",
+      "weight": 21,
+      "price": 210
+    }
+  ],
+  "typeofpulse": [
+    {
+      "name": "arhar",
+      "weight": 25,
+      "price": 250
+    },
+    {
+      "name": "moong",
+      "weight": 34,
+      "price": 340
+    },
+    {
+      "name": "bhujiya",
+      "weight": 21,
+      "price": 210
+    }
+  ]
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// {
+//    "TypeofWheat": 
+//    {
+//        {
+//          "name": "tripti",
+//          "weight": 25,
+//          "price": 250
+//        },
+//        {
+//          "name": "basmati",
+//          "weight": 34,
+//          "price": 340
+//        },
+//        {
+//          "name": "swarna",
+//          "weight": 21,
+//          "price": 210
+//        }
+//      }
+
+
+//    }
+//  },
+//  {
+   
+
+
+//    }
+//  }
+
+
+
+
+
+
+////  "TypeofWheat": {
+////    "name": "basmati",
+////    "weight": 20,
+////    "price": 30
+////  },
+////  "TypeofPulse": {
+////    "name": "mini",
+////    "weight": 30,
+////    "price": 50
+////  }
+
+////}

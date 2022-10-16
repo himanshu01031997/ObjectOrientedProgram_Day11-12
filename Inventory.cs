@@ -8,11 +8,11 @@ namespace InventoryManagement
 {
     public class Inventory//model class
     {
-        public TypeofRice typeofRice;
+        public List <TypeofRice> typeofRice;
        
-        public TypeofWheat typeofWheat;
+        public List <TypeofWheat> typeofWheat;
 
-        public TypeofPulse typeofPulse;
+        public List <TypeofPulse> typeofPulse;
 
 
 
