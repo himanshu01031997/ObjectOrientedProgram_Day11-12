@@ -1,0 +1,18 @@
+{
+  "TypeofRice": {
+    "name": "tripti",
+    "weight": 25,
+    "price": 220
+  },
+  "TypeofWheat": {
+    "name": "basmati",
+    "weight": 20,
+    "price": 30
+  },
+  "TypeofPulse": {
+    "name": "mini",
+    "weight": 30,
+    "price": 50
+  }
+
+}
